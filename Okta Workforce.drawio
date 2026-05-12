@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="nH1RSia7DtQigN5_lK17">
-    <mxGraphModel dx="860" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YHVe5QLSithn4uLbmSrl-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Identity Sources" vertex="1">
+          <mxGeometry height="80" width="80" x="158" y="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YHVe5QLSithn4uLbmSrl-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Target Applications" vertex="1">
+          <mxGeometry height="80" width="80" x="541" y="61" as="geometry" />
+        </mxCell>
+        <mxCell id="YHVe5QLSithn4uLbmSrl-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Identity Engine" vertex="1">
+          <mxGeometry height="80" width="80" x="344" y="62" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
